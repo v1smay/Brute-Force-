@@ -6,7 +6,7 @@ from queue import Queue
 url = "http://localhost:5000"
 
 # Use raw string or double backslashes for the Windows path
-file_path = r"C:\Users\vismay suman\Downloads\10-million-password-list-top-1000000.txt"
+file_path = r"#your_password-filepath"
 
 # Get the username from the user
 username = input("Username you want to brute force: ").strip()
